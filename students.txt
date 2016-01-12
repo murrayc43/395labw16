@@ -4,3 +4,4 @@ Student List
 ------------
 J.W. Grant MacEwan
 Ima Student
+Curtis Murray
